@@ -1,0 +1,106 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it as below. The data package is
+  listed under references.
+type: software
+title: >-
+  caps-ecostress-moyen-atlas: detection of cold-air pools from ECOSTRESS
+  nocturnal land surface temperature and terrain morphology
+version: 1.0.0
+date-released: '2026-10-19'
+license: MIT
+repository-code: https://github.com/Chahbar-UMI/caps-ecostress-moyen-atlas
+url: https://github.com/Chahbar-UMI/caps-ecostress-moyen-atlas
+authors:
+  - family-names: Chahbar
+    given-names: Kamal
+    affiliation: Université Moulay Ismail, Laboratoire LGEE, Meknès, Morocco
+    orcid: https://orcid.org/0009-0008-3765-2316
+keywords:
+  - cold-air pooling
+  - ECOSTRESS
+  - land surface temperature
+  - closed depressions
+  - topoclimate
+  - Middle Atlas
+  - Morocco
+abstract: >-
+  Reproducible Python/Colab pipeline that processes ECOSTRESS L2T LSTE v002
+  land surface temperature (70 m) to detect closed depressions acting as
+  cold-air traps in the Central Middle Atlas (Morocco): local LST anomaly
+  against a 5 km background, morphological reconstruction of closed
+  depressions, D8 cold-air flow routing without depression filling, a
+  harmonic model of nocturnal inversion development, statistical
+  determinants, robustness and between-period stability.
+references:
+  - type: data
+    title: >-
+      ECOSTRESS nocturnal land surface temperature data cube and cold-air
+      pool outputs, Central Middle Atlas (Morocco), 2019–2026
+    authors:
+      - family-names: Chahbar
+        given-names: Kamal
+        orcid: https://orcid.org/0009-0008-3765-2316
+      - family-names: Nejjari
+        given-names: Abdelouahab
+        orcid: https://orcid.org/0009-0007-7187-4396
+    year: 2026
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.23472840
+    license: CC-BY-NC-SA-4.0
+  - type: data
+    title: ECOSTRESS Tiled Land Surface Temperature and Emissivity Instantaneous L2 Global 70 m V002
+    authors:
+      - family-names: Hook
+        given-names: Simon
+      - family-names: Hulley
+        given-names: Glynn
+    year: 2022
+    publisher:
+      name: NASA LP DAAC
+    doi: 10.5067/ECOSTRESS/ECO_L2T_LSTE.002
+  - type: data
+    title: MODIS/Terra CGF Snow Cover Daily L3 Global 500m SIN Grid, Version 61 (MOD10A1F)
+    authors:
+      - family-names: Hall
+        given-names: Dorothy K.
+      - family-names: Riggs
+        given-names: George A.
+    year: 2020
+    publisher:
+      name: NASA NSIDC DAAC
+    doi: 10.5067/MODIS/MOD10A1F.061
+  - type: data
+    title: FABDEM V1-0
+    authors:
+      - family-names: Hawker
+        given-names: Laurence
+      - family-names: Uhe
+        given-names: Peter
+      - family-names: Paulo
+        given-names: Luntadila
+      - family-names: Sosa
+        given-names: Jeison
+      - family-names: Savage
+        given-names: James
+      - family-names: Sampson
+        given-names: Christopher
+      - family-names: Neal
+        given-names: Jeffrey
+    year: 2022
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.5777913
+    license: CC-BY-NC-SA-4.0
+  - type: data
+    title: ESA WorldCover 10 m 2021 v200
+    authors:
+      - family-names: Zanaga
+        given-names: D.
+      - name: et al.
+    year: 2022
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.7254221
+    license: CC-BY-4.0
