@@ -48,8 +48,7 @@ FABDEM V1-0 (Hawker et al., 2022), ESA WorldCover 2021 v200 (Zanaga et al., 2022
 - **Code**: MIT (see `LICENSE`).
 - **Data package**: CC BY-NC-SA 4.0, because it contains layers derived from FABDEM (non-commercial, share-alike).
   ESA WorldCover is CC BY 4.0; ECOSTRESS and MODIS products are openly available from NASA.
-- **Background imagery** in the example figures: Esri World Imagery, attribution shown on each figure;
-  check Esri terms of use before publication.
+- **Background imagery** in the example figures: Esri World Imagery (Esri Master License Agreement); credits are shown on each map, as Esri requires for publications.
 
 ## Citation
 
