@@ -5,7 +5,7 @@
 This repository contains a processing chain that detects **cold-air pools** in the closed
 depressions of the Central Middle Atlas (Morocco). It works from **ECOSTRESS** nocturnal
 land surface temperature (LST, 70 m) combined with terrain morphology. The study area
-covers three forests (2,264.5 km²) over the period 2019–2026.
+covers 3,291 km², centred on three forests, over the period 2019–2026.
 
 The pipeline is a single Google Colab / Jupyter notebook, `CAPS_ECOSTRESS_pipeline.ipynb`
 (comments and outputs in French). In short, it:
