@@ -56,8 +56,12 @@ Parts of the code and documentation were drafted with the assistance of an artif
 
 ## Citation
 
-Please cite the software (see `CITATION.cff`, or *Cite this repository* on GitHub) and the data package.
-Method and software references are in `references.bib` and in the last cell of the notebook.
+Please cite both the software and the data package:
+
+- **Software:** Chahbar, K. (2026). *caps-ecostress-moyen-atlas: detection of cold-air pools from ECOSTRESS nocturnal land surface temperature and terrain morphology* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23609162
+- **Data:** Chahbar, K. & Nejjari, A. (2026). *ECOSTRESS nocturnal land surface temperature data cube and cold-air pool outputs, Central Middle Atlas (Morocco), 2019-2026* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23472840
+
+Machine-readable metadata are in `CITATION.cff` (or *Cite this repository* on GitHub). Method and software references are in `references.bib` and in the last cell of the notebook.
 
 ## Contact
 
