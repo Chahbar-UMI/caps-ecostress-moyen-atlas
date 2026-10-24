@@ -50,6 +50,10 @@ FABDEM V1-0 (Hawker et al., 2022), ESA WorldCover 2021 v200 (Zanaga et al., 2022
   ESA WorldCover is CC BY 4.0; ECOSTRESS and MODIS products are openly available from NASA.
 - **Background imagery** in the example figures: Esri World Imagery (Esri Master License Agreement); credits are shown on each map, as Esri requires for publications.
 
+## AI assistance
+
+Parts of the code and documentation were drafted with the assistance of an artificial intelligence tool (Claude, Anthropic). All code was reviewed, executed and validated by the author, who takes full responsibility for the published content.
+
 ## Citation
 
 Please cite the software (see `CITATION.cff`, or *Cite this repository* on GitHub) and the data package.
