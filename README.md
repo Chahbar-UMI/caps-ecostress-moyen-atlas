@@ -1,6 +1,6 @@
 # caps-ecostress-moyen-atlas
 
-[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23472840.svg)](https://doi.org/10.5281/zenodo.23472840)
+**Code:** [![Code DOI](https://zenodo.org/badge/1425481754.svg)](https://doi.org/10.5281/zenodo.23609162) &nbsp; **Data:** [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23472840.svg)](https://doi.org/10.5281/zenodo.23472840)
 
 This repository contains a processing chain that detects **cold-air pools** in the closed
 depressions of the Central Middle Atlas (Morocco). It works from **ECOSTRESS** nocturnal
